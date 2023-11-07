@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/simon.riley.737?mibextid=2jq9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/simon.riley.737?mibextid=2jq9oc" height="30" width="40" /></a>
 <a href="https://instagram.com/simonbrettriley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simonbrettriley" height="30" width="40" /></a>
-</p
+</p>
 📫 How to reach me **simonriley.dev@gmail.com**
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
