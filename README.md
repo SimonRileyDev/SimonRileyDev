@@ -1,8 +1,18 @@
 <div align="center">
 
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Simon+Riley;Software+Developer;Building+cool+things+with+code;Always+learning%2C+always+improving" alt="Typing SVG" />
 
+<br/><br/>
+
+<a href="https://littlemenace.co.za/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-littlemenace.co.za-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
+
 </div>
+
+
 
 ---
 
@@ -14,6 +24,7 @@
 - 🎯 Currently mastering my craft through building, learning, and shipping  
 - 💡 Into creative development, UI, 3D, and full-stack experiences  
 - 🌱 Always exploring new tools, frameworks, and better ways to build  
+- 🌐 Portfolio: **[littlemenace.co.za](https://littlemenace.co.za/)**  
 - 📫 Reach me at **simonriley.dev@gmail.com**
 
 <br clear="right"/>
@@ -77,6 +88,9 @@
 
 <div align="center">
 
+<a href="https://littlemenace.co.za/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
 <a href="https://www.facebook.com/simon.riley.737?mibextid=2jq9oc" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=1877F2" />
 </a>
